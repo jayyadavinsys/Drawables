@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape android:shape="rectangle">
+        <solid android:color="#BF8765"/>
+        <stroke android:color="#972B2B" android:width="2dp"
+            android:dashWidth="2dp"
+            android:dashGap="10dp"
+            />
+        <corners android:bottomLeftRadius="21dp" android:topRightRadius="21dp"/>
+
+    </shape>
+
+</item>
+</selector>
